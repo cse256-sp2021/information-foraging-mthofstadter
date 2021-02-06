@@ -20,6 +20,10 @@ export async function setupAll() {
     console.log('reloaded');
 }
 
+export function setupSticky() {
+
+}
+
 itemsToCache.forEach((item: HTMLContent) => {
     HTMLLoader.cacheHTML(item.name, item.content);
 });
