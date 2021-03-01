@@ -118,7 +118,7 @@ h3.classroomNews {
 
 .sticky {
     position: fixed;
-    top: 0;
+    top: 43px;
     width: 100%;
     z-index: 5;
 }

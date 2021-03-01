@@ -1,2 +1,20 @@
 @import url("common.css");
 @import url("side_menu.css");
+
+#handbookInfo li {
+    font-size: 24px;
+}
+
+#handbookInfo {
+    margin-bottom: 30px;
+}
+
+#handbookLink {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#container {
+    display: flex;
+    justify-content: space-evenly;
+}
