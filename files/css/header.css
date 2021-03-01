@@ -103,6 +103,12 @@ header a {
     background-color: inherit;
 }
 
+.dropdown p {
+    margin-left: 5px;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+
 
 /* Add a red background color to navbar links on hover */
 

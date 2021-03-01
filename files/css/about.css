@@ -1,2 +1,14 @@
 @import url("common.css");
 @import url("side_menu.css");
+
+#classLinks {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+#classLinks a {
+    font-size: 24px;
+    color: #a51417;
+    margin: 10px 0px;
+}

@@ -2,3 +2,8 @@
 .image-container {
     background-image: url("https://nurseryschool.wustl.edu/files/2015/03/group-holi.jpg");
 }
+
+#bearTracksLink {
+    color: #a51417;
+    text-decoration: underline solid #a51417;
+}
