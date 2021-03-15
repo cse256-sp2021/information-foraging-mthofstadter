@@ -26,7 +26,6 @@ var sticky = header.offsetTop;
 // }
 
 function myFunction() {
-  console.log(dropdown.offsetHeight);
     if(dropdown.offsetHeight != 0) {
       header.classList.remove("stickyShort")
       header.classList.add("stickyTall");
