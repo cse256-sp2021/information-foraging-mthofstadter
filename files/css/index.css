@@ -116,11 +116,19 @@ h3.classroomNews {
     font-size: 2.5em;
 }
 
-.sticky {
+.stickyTall {
+    position: fixed;
+    top: 325px;
+    width: 100%;
+    z-index: 5;
+}
+
+.stickyShort {
     position: fixed;
     top: 43px;
     width: 100%;
     z-index: 5;
 }
+
 
 

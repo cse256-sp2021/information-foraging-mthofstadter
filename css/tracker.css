@@ -1,5 +1,6 @@
 #mturk-top-banner {
     background-color: orange;
+    /* background-color: rgba(200,100, 100, 0.8); */
     display: block;
     position: -webkit-sticky;
     position: sticky;
@@ -90,7 +91,8 @@ span {
     width: 100%;
     top: 43px;
     left: 0;
-    background-color: #eee;
+    /* background-color: #eee; */
+    background-color: rgba(200, 200, 200, 0.9);
     z-index: 100;
     padding: 10px 10px 10px 10px;
     border-left: 1px orange solid;
@@ -230,4 +232,9 @@ span {
     display: block;
     height: 90%;
     width: 90%;
+}
+
+#hint {
+    margin-top: 5px;
+    font-weight: bold;
 }

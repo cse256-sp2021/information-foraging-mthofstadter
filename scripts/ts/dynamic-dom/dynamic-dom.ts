@@ -21,7 +21,7 @@ export async function setupAll() {
 }
 
 export function setupSticky() {
-
+    doSomething();
 }
 
 itemsToCache.forEach((item: HTMLContent) => {
