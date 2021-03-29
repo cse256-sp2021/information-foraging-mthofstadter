@@ -154,3 +154,7 @@ header a {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+#discipline, #communication, #extraSupport {
+    margin-left: 10px;
+}

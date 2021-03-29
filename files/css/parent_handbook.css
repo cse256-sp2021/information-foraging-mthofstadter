@@ -9,9 +9,19 @@
     margin-bottom: 30px;
 }
 
-#handbookLink {
+#handbookLinks {
     margin-top: 10px;
-    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+#handbookLinks a {
+    font-size: 24px;
+    color: #a51417;
+    margin-right: 10px;
+}
+
+#handbookLinks p {
+    display: inline;
 }
 
 #container {
