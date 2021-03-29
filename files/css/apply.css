@@ -2,3 +2,27 @@
 .image-container {
     background-image: url("https://nurseryschool.wustl.edu/files/2015/03/group-holi.jpg");
 }
+
+#enrollSteps {
+    margin-left: 30px;
+    margin-bottom: 80px;
+    font-size: 18px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+#enrollSteps a, #applySteps a {
+    color: #a51417;
+}
+
+#applySteps {
+    margin-left: 30px;
+    margin-bottom: 80px;
+    font-size: 18px;
+}
+
+#applySteps ul {
+    margin-left: 10px;
+}

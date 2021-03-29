@@ -5,6 +5,7 @@ export function doSomething() {
 
 // Get the header
 var header = document.getElementById("main-menu-container");
+header.classList.add("stickyTall");
 var dropdown = document.getElementById("mturk-top-banner-drop-down-content");
 
 // Get the offset position of the navbar
@@ -37,8 +38,8 @@ function myFunction() {
   }
 
 function myFunction2() {
-  console.log("HI");
-  myFunction();
+  console.log("Loaded");
+  header.classList.add("stickyTall");
 }
 
 function myFunction3() {
